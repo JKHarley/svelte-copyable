@@ -4,6 +4,7 @@
   "files": [
     "dist"
   ],
+  "license": "MIT",
   "type": "module",
   "types": "dist/copyable.d.ts",
   "main": "./dist/svelte-copyable.umd.js",
