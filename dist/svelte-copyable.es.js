@@ -12,4 +12,4 @@ function copyable(element, text) {
     }
   };
 }
-export { copyable as default };
+export { copyable };
