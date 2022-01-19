@@ -1,6 +1,10 @@
 # Svelte Copyable
 An easy to use Svelte action to copy text.
 
+### Install
+```
+npm i svelte-copyable
+```
 ### Using the Action
 
 ```html
